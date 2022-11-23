@@ -1,2 +1,2 @@
 # FaceSwapperBot
-Telegram bot fot swapping faces.
+Telegram bot for swapping faces.
